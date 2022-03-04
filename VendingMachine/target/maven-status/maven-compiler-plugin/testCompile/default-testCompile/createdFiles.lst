@@ -1,0 +1,4 @@
+com\ap\vendingmachine\service\VendingMachineServiceLayerFileImplTest.class
+com\ap\vendingmachine\service\VendingMachineAuditDaoStubImpl.class
+com\ap\vendingmachine\service\VendingMachineDaoStubImpl.class
+com\ap\vendingmachine\dao\VendingMachineDaoFileImplTest.class

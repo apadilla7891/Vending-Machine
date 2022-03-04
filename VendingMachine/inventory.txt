@@ -1,0 +1,4 @@
+1::Chips::0.75::0
+2::Cookies::1.50::2
+3::Trail mix::1.25::0
+4::Chocolate::1.37::4
